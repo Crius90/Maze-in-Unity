@@ -11,6 +11,7 @@ There is also an extended implementation for a maze with rooms.
 - Create an empty Gameobject called MazeBuilder and attach the MazeBuilder script to it. 
 - Create two Materials for the floor and the wall and drag them into the MazeBuilder script.
 - After that, create another empty Gameobject called 'Maze'. 
+- Add a Canvas with a Button and register the OnClick method from MazeBuilder to generate new Mazes in Playmode
 
 Now you can go into Playmode and generate new Mazes. 
 
