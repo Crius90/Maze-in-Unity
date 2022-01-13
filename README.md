@@ -29,7 +29,9 @@ Now you can go into Playmode and generate new Mazes.
 - -> RoomSizeMax: Maximum number of gridCells the rooms have to be
 - Make sure to use Recursive Backtracker here. Aldous Broder runs into Exceptions with rooms.
 
-## Links for Mazes and PCG in general
+## Links for Mazes and PCG in general (mostly papers)
+
+### Mazes
 
 - Mazes for Programmers (Book): http://www.mazesforprogrammers.com/
 - https://weblog.jamisbuck.org/2011/2/7/maze-generation-algorithm-recap
@@ -40,6 +42,7 @@ Now you can go into Playmode and generate new Mazes.
 - Barbara De Kegel and Mads Haahr. Procedural puzzle generation: a survey. 
 - Paul Hyunjin Kim and Roger Crawfis. The quest for the perfect perfect-maze.
 
+### PCG 
 
 - https://www.gamedeveloper.com/design/procedural-content-generation-thinking-with-modules
 - http://pcg.wikidot.com/
@@ -52,6 +55,8 @@ Now you can go into Playmode and generate new Mazes.
 - Antonios Liapis, Gillian Smith, and Noor Shaker. Mixed-initiative content creation.
 - Julian Togelius, Georgios N Yannakakis, Kenneth O Stanley, and Cameron Browne. Search-based procedural content generation: A taxonomy and survey.
 - Gillian Smith and Jim Whitehead. Analyzing the expressive range of a level generator.
+
+### Dungeons
 
 -  Breno MF Viana and Selan R dos Santos. A survey of procedural dungeon generation.
 -  Roland Van Der Linden, Ricardo Lopes, and Rafael Bidarra. Procedural generation of dungeons.
