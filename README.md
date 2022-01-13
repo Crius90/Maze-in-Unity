@@ -26,3 +26,4 @@ Now you can go into Playmode and generate new Mazes.
 - -> RoomFitTries: How often the loop tries to create rooms (the higher the number the slower the computation)
 - -> RoomSizeMin: Minimum number of gridCells the rooms have to be
 - -> RoomSizeMax: Maximum number of gridCells the rooms have to be
+Make sure to use Recursive Backtracker here. Aldous Broder runs into Exceptions with rooms.
